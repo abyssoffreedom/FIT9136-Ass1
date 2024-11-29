@@ -1,0 +1,60 @@
+Assignment Results
+Mark: 23.7 of 25 (HD)
+Days late: 0 (-0%)
+Correct submission: Yes (1)
+
+Marked by: Bhagya Rupasinghe
+
+Automarker Results (13/13)
+Tasks 1-3
+T1: 1 / 1
+T2: 1 / 1
+T3: 2 / 2
+
+Tasks 4-6
+T4: 1 / 1
+T5: 1.5 / 1.5
+T6: 1.5 / 1.5
+
+Tasks 7-9
+T7: 2 / 2
+T8: 2 / 2
+T9: 1 / 1
+
+Checkpoint Results (2/2)
+Checkpoint 1
+T1: 100%
+T2: 100%
+T3: 100%
+
+Checkpoint 2
+T4: 100%
+T5: 100%
+T6: 100%
+
+TA Review (7.7/9)
+Marked by: Bhagya Rupasinghe
+
+Tasks 1-3
+Documentation: Excellent
+Comments: Satisfactory
+Variable Naming: Satisfactory
+Readability: Satisfactory
+Feedback: Job well done on Part One. However, reusing some variables for calculations throughout the code can hurt readability. It would be better to use variable names that specify their usage, such as seconds_in_trisolaris, to improve clarity.
+
+Tasks 4-6
+Documentation: Excellent
+Comments: Excellent
+Variable Naming: Satisfactory
+Readability: Excellent
+Feedback: Good job completing Part Two with clear documentation and avoiding code repetition. The variable names are better in most cases, but names like robot_check may be clear to you but not to the reader. For example, it’s not immediately obvious that this is checking whether the user is a robot. Using is_robot would provide more clarity.
+
+Tasks 7-9
+Documentation: Satisfactory
+Comments: Satisfactory
+Variable Naming: Satisfactory
+Readability: Satisfactory
+Feedback: A job well done on completing the overall assignment with the required functionality. When modularizing the code, try to avoid code repetition within functions. Aim to use a single function for one specific task to prevent repeated code.
+
+TA Comment
+Overall, you did a great job implementing the assignment requirements and documenting your work in a way that's easy to follow. Just a note on code commenting: when documenting functions, be sure to include details about the parameters, purpose, and return types.
